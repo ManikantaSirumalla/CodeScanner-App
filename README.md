@@ -68,7 +68,7 @@ This project is open-source and available under the [MIT License](./LICENSE).
 
 ## Contributors
 
-- Your Name: (https://github.com/yourusername)
+- Your Name: (https://github.com/ManikantaSirumalla)
 
 If you'd like to contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
