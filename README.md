@@ -6,10 +6,8 @@ Certainly! Here's the same GitHub README content provided as a markdown file:
 
 The CodeScanner App is a simple iOS application that allows users to scan both QR codes and barcodes using a custom framework. This app demonstrates how to integrate and use the QRScannerFramework to scan and detect codes.
 
-![Demo](./Screenshots/demo.png)
 ![IMG_1820](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/f17a4697-01f5-4c64-a729-9f9535ab104e)
 ![IMG_1821](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/a481ec9c-75bb-4359-924b-e478ba2ffef9)
-
 ![IMG_1822](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/b78d1cd8-84d6-4678-950c-bb123864298f)
 ![IMG_1823](h![IMG_1824](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/5df4f02e-13c8-4783-8e24-ee48343e2834)
 ttps://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/b3f4a4f5-b926-49f7-a0a6-00b524f0e9f9)
