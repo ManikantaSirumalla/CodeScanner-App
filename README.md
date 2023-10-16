@@ -10,7 +10,6 @@ The CodeScanner App is a simple iOS application that allows users to scan both Q
 ![IMG_1821](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/a481ec9c-75bb-4359-924b-e478ba2ffef9)
 ![IMG_1822](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/b78d1cd8-84d6-4678-950c-bb123864298f)
 ![IMG_1823](h![IMG_1824](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/5df4f02e-13c8-4783-8e24-ee48343e2834)
-ttps://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/b3f4a4f5-b926-49f7-a0a6-00b524f0e9f9)
 
 ## Features
 - **Scan QR Codes:** Easily scan QR codes with the press of a button.
@@ -66,7 +65,7 @@ pod install
 
 The app uses a custom framework called QRScannerFramework for code scanning. The framework encapsulates the scanning functionality and allows easy integration into other projects.
 
-To learn more about creating custom frameworks and integrating them with CocoaPods, see the [Custom Framework Creation Guide](https://github.com/yourusername/QRScannerFrameworkforIphones).
+To learn more about creating custom frameworks and integrating them with CocoaPods, see the (https://medium.com/@manikantasirumalla5/creating-custom-ios-framework-2dc6e963e557).
 
 ## License
 
@@ -74,7 +73,7 @@ This project is open-source and available under the [MIT License](./LICENSE).
 
 ## Contributors
 
-- Your Name: [GitHub Profile](https://github.com/yourusername)
+- Your Name: (https://github.com/yourusername)
 
 If you'd like to contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
