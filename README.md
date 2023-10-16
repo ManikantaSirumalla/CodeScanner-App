@@ -4,11 +4,6 @@ Certainly! Here's the same GitHub README content provided as a markdown file:
 
 The CodeScanner App is a simple iOS application that allows users to scan both QR codes and barcodes using a custom framework. This app demonstrates how to integrate and use the QRScannerFramework to scan and detect codes.
 
-![IMG_1820](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/f17a4697-01f5-4c64-a729-9f9535ab104e)
-![IMG_1821](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/a481ec9c-75bb-4359-924b-e478ba2ffef9)
-![IMG_1822](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/b78d1cd8-84d6-4678-950c-bb123864298f)
-![IMG_1823](h![IMG_1824](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/5df4f02e-13c8-4783-8e24-ee48343e2834)
-
 ## Features
 - **Scan QR Codes:** Easily scan QR codes with the press of a button.
 - **Scan Barcodes:** Scan barcodes for various applications.
@@ -16,8 +11,9 @@ The CodeScanner App is a simple iOS application that allows users to scan both Q
 - **Delegate Pattern:** Demonstrates the use of the delegate pattern to handle code scanning events.
 
 ## Screenshots
+![Screenshot 2023-10-17 at 2 43 21 AM](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/dc95a4ea-65d2-419d-9308-d4c0878600cd)
 
-![QR Code Scan](./Screenshots/qr_scan.png) ![Barcode Scan](./Screenshots/barcode_scan.png)
+
 
 ## Installation
 
