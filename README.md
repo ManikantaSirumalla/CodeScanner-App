@@ -11,7 +11,8 @@ The CodeScanner App is a simple iOS application that allows users to scan both Q
 - **Delegate Pattern:** Demonstrates the use of the delegate pattern to handle code scanning events.
 
 ## Screenshots
-![Screenshot 2023-10-17 at 2 43 21 AM](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/dc95a4ea-65d2-419d-9308-d4c0878600cd)
+![Screenshot 2023-10-17 at 2 43 21 AM](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/dc95a4ea-65d2-419d-9308-d4c0878600cd)![Screenshot 2023-10-17 at 2 45 55 AM](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/2de5a01d-7c23-44ac-947c-ab0d9257383b)
+
 ![Screenshot 2023-10-17 at 2 44 03 AM](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/56a18d70-d9fd-45ed-8eb0-51520b49cfa3)![Screenshot 2023-10-17 at 2 44 53 AM](https://github.com/ManikantaSirumalla/CodeScanner-App/assets/87671172/c53394fa-7e25-4fee-9839-5480de4398b9)
 
 
